@@ -10,5 +10,6 @@
 ### 11/28
 
 - 화면 완성
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ee0604f-e0aa-4dc7-aec9-45dd41fdfddd/14be1740-f3c9-4fc5-af55-c94e294522e7/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ee0604f-e0aa-4dc7-aec9-45dd41fdfddd/d2e58a8f-a8ad-4443-8f15-538ecc79f9b9/Untitled.png)
+<img width="260" alt="food-delivery-app01" src="https://github.com/saki8661/flutter-food-delivery-app/assets/135561587/16af7dd8-4c4d-4e9a-aa6f-7775c39bf1d5">
+<img width="266" alt="food-delivery-app02" src="https://github.com/saki8661/flutter-food-delivery-app/assets/135561587/3e584dea-4a7b-458f-8d52-6a69d9cec0d4">
+
